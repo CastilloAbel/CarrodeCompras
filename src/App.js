@@ -37,7 +37,7 @@ const Aviso = () =>{
 }
 const Carro = ()=>{
   return (
-    <div>
+    <div id="button-cont">
       <Aviso></Aviso>
       <button 
         className={"button"}

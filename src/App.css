@@ -7,28 +7,27 @@
   background-color: rgb(173, 104, 0);
   margin: 0;
   display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: flex-end;
+
 }
 #name{
   margin-left: 10px;
-  justify-items: flex-start;
+  margin-top: 50px;
+  align-self: flex-start;
 }
 .button{
   height: 40px;
-  margin-bottom: 20px;
   border: none;
   background-color: rgb(0, 173, 150);
   color: #fff;
-  align-self: center;
-  
   
 }
 #compra{
   margin-right: 30px;
   width: 80px;
   height: 50px;
-  flex-direction: row;
+  align-self: flex-end;
 }
 .button:hover{
   transition:  0.5 ease-in-out;
@@ -78,27 +77,25 @@
   width: 300px;
   height: 240px;
 }
-#men{
-  display:flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  background-color: #fff;
-}
-.men-product{
-  border: #000, solid;
-  width: 100px;
-}
-.men-product button{
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
 #sum{
-  display: flex;
   width: 20px;
   height: 20px;
   border-radius: 100%;
   background-color: #f00;
+  align-self: flex-end;
+  display: flex;
   justify-content: center;
   color: #fff;
+  position: relative;
+  left: 8px;
+  top: 8px;
+}
+#button-cont{
+  align-self: flex-end;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+
 }
