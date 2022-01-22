@@ -13,7 +13,6 @@ const ButtonCompra = ({id, productos, sumar, dispatch, name, key})=>{
       >Añadir al Carro
     </button>
   )
-
 }
 const Compra = ({id, className, price, name, productos, sumar, dispatch, key})=>{
   return(
