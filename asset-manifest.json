@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CarrodeCompras/static/css/main.ed9b28e3.css",
+    "main.js": "/CarrodeCompras/static/js/main.4f6c786a.js",
+    "static/js/787.0701007c.chunk.js": "/CarrodeCompras/static/js/787.0701007c.chunk.js",
+    "static/media/arbejas.jpg": "/CarrodeCompras/static/media/arbejas.02eb6bcd49ecfb2ade17.jpg",
+    "static/media/lechuga.jpg": "/CarrodeCompras/static/media/lechuga.65345de1a92203421e4c.jpg",
+    "static/media/tomate.jpg": "/CarrodeCompras/static/media/tomate.de015811b565e31600ef.jpg",
+    "index.html": "/CarrodeCompras/index.html",
+    "main.ed9b28e3.css.map": "/CarrodeCompras/static/css/main.ed9b28e3.css.map",
+    "main.4f6c786a.js.map": "/CarrodeCompras/static/js/main.4f6c786a.js.map",
+    "787.0701007c.chunk.js.map": "/CarrodeCompras/static/js/787.0701007c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed9b28e3.css",
+    "static/js/main.4f6c786a.js"
+  ]
+}
