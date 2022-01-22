@@ -18,10 +18,10 @@ jobs:
     - name: install packages
       run: npm install
     - name: registry github user
-      run: /
+      run: |
         git config --global user.email <email>
         git config --global user.name <name>
     - name: deploy the app
       run: npm run deploy
       env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN}}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
