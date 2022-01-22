@@ -2,7 +2,7 @@
   "name": "hooks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://castilloabel.github.io/CarrodeCompras",
+  "homepage": "https://castilloabel.github.io/CarrodeCompras",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
